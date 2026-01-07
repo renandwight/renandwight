@@ -7,12 +7,34 @@ I specialize in building **data-driven applications**, designing REST APIs, anal
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Python, JavaScript, SQL  
-- **Backend:** Django, Django REST Framework, REST APIs  
-- **Frontend:** React  
-- **Databases:** PostgreSQL  
-- **Data & Analytics:** Pandas, NumPy, Machine Learning (regression, neural networks)  
-- **Tools:** Git/GitHub, Linux/WSL  
+
+**Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" />
+</p>
+
+**Backend & APIs**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
+</p>
+
+**Databases & Systems**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
+</p> 
 
 ---
 
