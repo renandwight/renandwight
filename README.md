@@ -1,6 +1,6 @@
 # Hi, I’m Chris 👋
 
-I’m an early-career **Software Engineer and Data Analyst** with a strong foundation in **Python, full-stack development, and applied analytics**, backed by 20 years of experience operating and improving high-reliability technical systems.
+I’m a **Software Engineer and Data Analyst** with a strong foundation in **Python, full-stack development, and applied analytics**, backed by 20 years of experience operating and improving high-reliability technical systems.
 
 I specialize in building **data-driven applications**, designing REST APIs, analyzing and validating large datasets, and translating complex system behavior into actionable insights.
 
